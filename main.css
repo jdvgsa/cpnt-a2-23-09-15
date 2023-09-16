@@ -1,7 +1,6 @@
 /*body text*/
 body {
   font-family: 'Times New Roman' Times, serif;
-  font-family: 'Roboto';
   font-size: 23px;
   font-size: clamp(18px, 3vw, 20px);
   line-height: 1.25;
@@ -22,7 +21,7 @@ body {
   /*heading*/
   h1, h2 {
     font-size: 100px;
-    font-family: sans-serif Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-family: 'Mooli';
     font-weight: bold;
     text-align: center;
