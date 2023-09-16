@@ -14,7 +14,7 @@ H3 - Penalties
 
 Paragraph in the body text underneath each heading.
 An unordered list; line 45 in HTML.
-A link to an external location with hover state on the word "Sport" HTML line 19. CSS line 52.
+A link to an external location with hover state on the word "Sport" HTML line 19. CSS line 54-67.
 One example of bold text is "Golf" in HTML line 19.
 One example of italic text is "old course, st andrews, prestwick golf club, ayrshire, at HTML line 26.
 

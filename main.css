@@ -1,77 +1,78 @@
 /*body text*/
 body {
-  font-family: 'Times New Roman' Times, serif;
-  font-size: 23px;
-  font-size: clamp(18px, 3vw, 20px);
-  line-height: 1.25;
+font-family: 'Times New Roman' Times, serif;
+font-size: 23px;
+font-size: clamp(18px, 3vw, 20px);
+line-height: 1.25;
   
-  margin: 85px;
-  text-align: justify;
+margin: 85px;
+text-align: justify;
   
-  color: hsla(0, 68%, 21%, 0.877);
-  background-color: hsla(48, 51%, 81%, 0.849);
+color: hsla(0, 68%, 21%, 0.877);
+background-color: hsla(48, 51%, 81%, 0.849);
   
-  }
+}
   
-  main {
-    max-width: 85ch;
-    margin:85ch;
-  }
+main {
+max-width: 85ch;
+margin:85ch;
+}
   
-  /*heading*/
-  h1, h2 {
-    font-size: 100px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-family: 'Mooli';
-    font-weight: bold;
-    text-align: center;
+/*heading*/
+h1, h2 {
+font-size: 100px;
+font-family: Arial, Helvetica, sans-serif;
+font-family: 'Mooli';
+font-weight: bold;
+text-align: center;
     
-    border-radius: 5%;
-    border-width: 3ch;
+border-radius: 5%;
+border-width: 3ch;
    
-    background-color: rgba(226, 224, 197, 0.952);
+background-color: rgba(226, 224, 197, 0.952);
+ 
+}
   
-  }
+h2 {
+font-size: 50px;
+}
   
-  h2 {
-    font-size: 50px;
-  }
-  
-  h3 {
-    font-size: 25px;
-  }
+h3 {
+font-size: 25px;
+}
 
 /*image line*/
 .myimage{
-  position: relative;
-  left: 15%;
-  width: 70%;
-  height: 500px;
-  margin:auto;
+position: relative;
+left: 15%;
+width: 70%;
+height: 500px;
+margin:auto;
 } 
 
-  /*link behavior*/
-  a {
-    color: rgba(255, 3, 3, 0.726);
-    text-decoration: dotted
+/*link behavior*/
+a {
+color: rgba(255, 3, 3, 0.726);
+text-decoration: dotted
     
-  }
+}
   
-  a:visited {
-    color: rgba(98, 0, 255, 0.774);
+a:visited {
+color: rgba(98, 0, 255, 0.774);
   
-  }
+}
   
-  a:hover {
-    text-decoration: underline;
-    color:rgba(255, 102, 0, 0.863);
-  }
+a:hover {
+text-decoration: underline;
+color:rgba(255, 102, 0, 0.863);
+}
+
 /*unorganized list customization*/
-  .customizedlist li {
+.customizedlist li {
   
-  color: rgba(156, 57, 11, 0.993);
-  font-style: italic;
-  }
+color: rgba(156, 57, 11, 0.993);
+font-style: italic;
+}
 
   
   
