@@ -1,5 +1,6 @@
 /*body text*/
 body {
+  font-family: 'Roboto''Times New Roman', Times, serif;
   font-size: 23px;
   font-size: clamp(18px, 3vw, 20px);
   line-height: 1.25;
@@ -32,13 +33,14 @@ body {
   }
   
   h2 {
-    font-size: 35px;
+    font-size: 50px;
   }
   
   h3 {
     font-size: 25px;
   }
 
+/*image line*/
 .myimage{
   position: relative;
   left: 15%;
@@ -63,4 +65,12 @@ body {
     text-decoration: underline;
     color:rgba(255, 102, 0, 0.863);
   }
+
+  .customizedlist li {
+    /* list-style-type: none; */
+  color: rgba(156, 57, 11, 0.993);
+  font-style: italic;
+  }
+
+  
   
