@@ -1,6 +1,7 @@
 /*body text*/
 body {
-  font-family: 'Roboto''Times New Roman', Times, serif;
+  font-family: 'Times New Roman' Times, serif;
+  font-family: 'Roboto';
   font-size: 23px;
   font-size: clamp(18px, 3vw, 20px);
   line-height: 1.25;
@@ -21,7 +22,8 @@ body {
   /*heading*/
   h1, h2 {
     font-size: 100px;
-    font-family: 'Mooli', sans-serif Arial, Helvetica, sans-serif;
+    font-family: sans-serif Arial, Helvetica, sans-serif;
+    font-family: 'Mooli';
     font-weight: bold;
     text-align: center;
     
@@ -65,9 +67,9 @@ body {
     text-decoration: underline;
     color:rgba(255, 102, 0, 0.863);
   }
-
+/*unorganized list customization*/
   .customizedlist li {
-    /* list-style-type: none; */
+  
   color: rgba(156, 57, 11, 0.993);
   font-style: italic;
   }
